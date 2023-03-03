@@ -1,9 +1,8 @@
-# robusta-playbook
 [tool.poetry]
-name = "robusta_playbooks"
+name = "kafka_restart"
 version = "0.0.1"
 description = ""
-authors = ["Arik Alon <arikalon1@users.noreply.github.com>"]
+authors = ["USER NAME eddypop2000@gmail.com"]
 
 [tool.black]
 line-length = 120
